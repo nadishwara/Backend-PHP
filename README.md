@@ -1,4 +1,4 @@
-<h1>Login and Registration System</h1>h1>
+<h1>Login and Registration System</h1>
 This is a simple login and registration system built using HTML, CSS, JavaScript, PHP, and MySQL. It allows users to register, log in, and access a home page. The system is designed for educational purposes and can be extended for more complex applications.
 
 Features
